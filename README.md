@@ -1,6 +1,12 @@
 
 # 💫 About Me:
-Hi! I'm Muhammet EROĞLU , a software developer based in [KONYA].<br>
+Hi! I'm Muhammet EROĞLU , a software developer based in [KONYA].
+A passionate and experienced web developer with 2 years of experience in
+front-end and back-end web development, as well as in editing, design, and
+publishing. I am skilled in a variety of programming languages and tools, and I
+am experienced in working with clients and managing project development. I am
+also a team player and value clear communication.
+<br>
 
 
 ## 🌐 Socials:

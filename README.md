@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/REVEOM](https://github.com/REVEOM)
 
-- 📝 I regularly write psychological articles [#](#)
+- 📝 I regularly write psychological articles [](#)
 
 - 💬 Ask me about **JavaScript**
 

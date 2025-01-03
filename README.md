@@ -6,7 +6,7 @@ As a **beginner developer**, I'm currently focused on **JavaScript**, **React**,
 
 
 ## 🛠️ Technologies & Tools 
-- **Languages**: JavaScript, Python
+- **Languages**: JavaScript, Python , Bash
 - **Web**: React, Node.js
 - **Mobile**: React Native
 - **Linux**: Exploring Linux-based development
